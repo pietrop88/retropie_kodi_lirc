@@ -1,0 +1,21 @@
+<keymap>
+  <global>
+    <remote>
+      <play>Select</play>
+      <up>Up</up>
+      <down>Down</down> 
+      <left>Left</left>
+      <right>Right</right>
+      <menu>PreviousMenu</menu>
+    </remote>
+  </global>
+  <fullscreenvideo>
+    <remote>
+      <play>PlayPause</play>
+      <up>VolumeUp</up>
+      <down>VolumeDown</down>
+      <right>StepForward</right>
+      <left>StepBackward</left>
+    </remote> 
+  </fullscreenvideo>
+</keymap>

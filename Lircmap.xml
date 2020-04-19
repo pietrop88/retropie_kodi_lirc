@@ -1,0 +1,10 @@
+<lircmap>
+   <remote device="Apple_A1156">
+      <play>KEY_PLAY</play>
+      <up>KEY_KPPLUS</up>
+      <right>KEY_FASTFORWARD</right>
+      <down>KEY_KPMINUS</down>
+      <left>KEY_REWIND</left>
+      <menu>KEY_MENU</menu>
+   </remote>
+</lircmap>
